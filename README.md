@@ -34,7 +34,3 @@ npm install
  
  4. Запустите проект
 npm run dev
-=======
-# Users and his posts (JS)
-Example user catalog with social media posts
->>>>>>> ecbb29e8fcf0886f7a91c45078e1e3ae7e7f1782

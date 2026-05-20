@@ -27,10 +27,10 @@
  1. Клонируйте ссылку на репозиторий
 
  2. Перейдите в папку проекта
-cd posts-app
+    *cd posts-app*
 
  3. Установите все нужные зависимости
-npm install
+    *npm install*
  
  4. Запустите проект
-npm run dev
+    *npm run dev*

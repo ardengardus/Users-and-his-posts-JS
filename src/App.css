@@ -1,0 +1,22 @@
+.app-container {
+  background: linear-gradient(145deg, #0f1119 0%, #0a0d16 100%);
+  border-radius: 32px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(59, 130, 246, 0.2);
+}
+
+.layout {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+@media (max-width: 760px) {
+  .layout {
+    flex-direction: column;
+  }
+}
